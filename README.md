@@ -20,7 +20,7 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-View the deployed project at [https://promptify-three.vercel.app/](https://promptify-three.vercel.app/).
+View the deployed project at [https://promptify-j4puk5slf-jake4369.vercel.app/](https://promptify-j4puk5slf-jake4369.vercel.app/).
 
 ## Learn More
 
